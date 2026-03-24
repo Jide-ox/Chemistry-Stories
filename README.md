@@ -1,5 +1,4 @@
 # Chemistry-Stories
-Learn Fundamentals of Chemistry by Art of Story Telling 
 <!DOCTYPE html>
 <html>
 <head>
@@ -47,7 +46,9 @@ Learn Fundamentals of Chemistry by Art of Story Telling
 
 <header>
     <h1>📚 Chemistry Story Library</h1>
+    <h1>Learn Fundamentals of Chemistry by Art of Story Telling</h1>
 </header>
+
 
 <div class="container">
 
